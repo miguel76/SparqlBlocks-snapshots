@@ -1,0 +1,19 @@
+{
+  "name": "sparqlblocks-snapshots",
+  "version": "0.1.0",
+  "description": "Utility lib to get snapshots from part of UI of SparqlBlocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel76/SparqlBlocks-snapshots.git"
+  },
+  "author": "Miguel Ceriani <miguel.ceriani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel76/SparqlBlocks-snapshots/issues"
+  },
+  "homepage": "https://github.com/miguel76/SparqlBlocks-snapshots#readme"
+}
