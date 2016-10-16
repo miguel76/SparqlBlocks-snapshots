@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/miguel76/SparqlBlocks-snapshots/issues"
   },
-  "homepage": "https://github.com/miguel76/SparqlBlocks-snapshots#readme"
+  "homepage": "https://github.com/miguel76/SparqlBlocks-snapshots#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
 }
